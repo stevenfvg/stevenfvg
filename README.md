@@ -8,14 +8,11 @@
 Full Stack Developer with experience in technical support, skills in React and Node.js, seeking to actively contribute to the development and continuous improvement of web projects. Willing to apply knowledge of development frameworks and technologies to create innovative solutions as a Full Stack Developer.
 
 
-
-- 🔭 I’m currently working on [personal portfolio](stevenfvg.dev).
-
 - 🌱 I’m currently learning **Python, Bash Scripting and Ethical Hacking**.
 
 - 💬 Ask me about **JavaScript and Web Development.**
 
-- 📄 Know about my experiences [currículum vitae](https://drive.google.com/file/d/1Rk8q9r4t41dbYl92jiamzHvVk3Kombtv/view?usp=drive_link).
+- 📄 Know about my experiences [currículum vitae](https://stevenfvalladares.dev/).
 
 
 ### A little more about me...
